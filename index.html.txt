@@ -1,0 +1,15 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF=-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>My CSC2130 Project</title>
+    </head>
+    <body>
+    <h1>Welcome to My Web Development Project</h1>
+    <p>Student name:Elvis Kipyegon</p>
+    <p>Registration number:COM/0033/25</p>
+    <p>Project idea:Farm records</p>
+    </body>
+    </html>
