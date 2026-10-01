@@ -6,7 +6,7 @@ Farm Records Management System
 
 ## Student Information
 - Name: Elvis Kipyegon
-- Registration Number: [Your registration number]
+- Registration Number: [COM/0033/25]
 - Course: CSC2130 – Introduction to Web Development
 
 ## Project Description
