@@ -25,4 +25,4 @@ Farm Records is a web-based project designed to help farmers manage and maintain
 - contact.html – Contact page
 
 ## GitHub Repository
-[Your G https://github.com/kipyogonelvis476-debug/csc2130-project.gititHub URL]
+[https://github.com/kipyogonelvis476-debug/csc2130-project.gititHub]
